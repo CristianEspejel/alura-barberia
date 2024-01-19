@@ -1,5 +1,7 @@
 # Curso de Alura: HTML y CSS para Principiantes
 
+https://cristianespejel.github.io/alura-barberia/
+
 ¡Bienvenido al curso de HTML y CSS para principiantes de Alura! Este proyecto es parte del material del curso y proporciona ejemplos y ejercicios para que puedas practicar y mejorar tus habilidades en el desarrollo web.
 
 ## Contenido del Curso
@@ -18,5 +20,9 @@ Este repositorio contiene ejemplos de código, proyectos prácticos y recursos a
 
 ```bash
 git clone https://github.com/cristianespejel/alura-barberia.git
-puede seguir en vivo en el siguiente enlace
 
+
+##puede seguir en vivo en el siguiente enlace
+
+```bash
+https://cristianespejel.github.io/alura-barberia/
